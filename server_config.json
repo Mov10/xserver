@@ -1,9 +1,9 @@
 {
-  "server_ip": "41.00.41.47",
+  "server_ip": "41.233.41.47",
   "server_domain": "dell-g15",
   "server_port": 8443,
   "openfire_port": 5222,
-  "last_updated": "2026-08-11T19:53:31.835762Z",
+  "last_updated": "2026-08-11T20:22:28.884850Z",
   "environment": "production",
   "backup_servers": [
     "192.168.1.9",
